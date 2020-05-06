@@ -53,28 +53,3 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 
 #### Module 4 | Data Ingestion
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/05.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
-
-
-
-
-
-<br>
-
-
-
-
-<br>
-
-### How can I stay in touch?
--------------------------------------
-* Quite simple! Just join my slack channel [**here**](https://bit.ly/2wOTt5w) and drop a Hello.Here's where all the action happening! 
-* For anything else, I am available here : **learn@mentorskool.com**.
-
-
-
-
-
-
-
-    # MentorClass
-Free learning materials developed by fellow collaborators at Mentorskool
