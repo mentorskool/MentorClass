@@ -1,8 +1,6 @@
 
 ## Welcome to Mentorskool!
 
-This is **me** : <br>
-![Amit Choudhary](https://github.com/mentorskool/welcome/blob/master/imgs/profile.png?raw=true) <br><br>
 I welcome all you **self-driven learners** to my open learning initiative as we embark on a exciting journey towards upskilling ourselves via self-learning
 
 
