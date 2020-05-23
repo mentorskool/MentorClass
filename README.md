@@ -39,7 +39,7 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 (**Note :** Wherever you start, it is suggested that you cover the topics in the **Data Fundamentals** section at least!)
 
 #### Module 1 | Project Hygiene
-* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/01.Getting-Started/breaking-the-ice.ipynb" target="_blank">Git Basics</a> - Talks about why knowing Git is so important for techies
+* <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/02.Project-Hygiene/git-basics.ipynb" target="_blank">Git Basics</a> - Talks about why knowing Git is so important for techies
 
 
 #### Module 2 | Data Fundamentals
