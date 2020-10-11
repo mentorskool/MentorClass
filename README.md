@@ -53,3 +53,14 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 
 #### Module 4 | Data Ingestion
 * <a href="https://colab.research.google.com/github/mentorskool/Welcome/blob/master/learnbooks/05.Data-Ingestion/web-scraping.ipynb" target="_blank">Learn to scrape the web</a> - 'Internet is your database'. To realise the same, its imperative that you know how to fetch any data on a web page using Python
+
+
+#### Module 5 | Data Visualization
+* **Getting Started with Power BI** - Visual storytelling is one of the most sought after skill in indusrty for Data Analysts
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-01.mp4" target="_blank">Part-01</a>
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-02.mp4" target="_blank">Part-02</a>
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-03.mp4" target="_blank">Part-03</a>
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-04.mp4" target="_blank">Part-04</a>
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-05.mp4" target="_blank">Part-05</a>
+	* <a href=https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-06.mp4" target="_blank">Part-06</a>
+
