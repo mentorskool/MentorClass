@@ -62,5 +62,5 @@ Now, based on where you stand today, pick the topics most relevant to you from b
 	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-03.mp4" target="_blank">Part-03</a>
 	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-04.mp4" target="_blank">Part-04</a>
 	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-05.mp4" target="_blank">Part-05</a>
-	* <a href=https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-06.mp4" target="_blank">Part-06</a>
+	* <a href="https://mskl-business.s3.us-east-2.amazonaws.com/learning-videos/power-bi/powerbi-06.mp4" target="_blank">Part-06</a>
 
